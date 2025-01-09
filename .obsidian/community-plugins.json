@@ -34,9 +34,9 @@
   "note-refactor-obsidian",
   "obsidian-paste-image-rename",
   "cm-show-whitespace-obsidian",
-  "symbols-prettifier",
   "tag-wrangler",
   "obsidian-tasks-plugin",
   "todoist-sync-plugin",
-  "quickadd"
+  "quickadd",
+  "symbols-prettifier"
 ]
